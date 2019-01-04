@@ -1,2 +1,2 @@
 # CipherGenerator
-generator cipher tips
+generate cipher tips
